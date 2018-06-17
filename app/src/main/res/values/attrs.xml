@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScrollDividingRuleView">
+        <attr name="line_height" format="dimension|reference" />
+        <attr name="dividing_text_size" format="dimension|reference" />
+    </declare-styleable>
+</resources>
